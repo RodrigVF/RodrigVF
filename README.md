@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer, currently working as a freelancer</h3>
 
 - 🌱 I’m currently learning **PHP**
-- ⚡ Fun fact **I'm always looking for learn something new**
+- ⚡ Fun fact **I'm always looking to learn something new**
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=rodrigovilelaferreira&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=discord)](https://discord.com/users/889910512136114226)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Rodrigo%20Vilela%20Ferreira&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigovilelaferreira)
