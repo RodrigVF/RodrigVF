@@ -5,7 +5,7 @@
 - ⚡ Fun fact **I'm always looking for learn something new**
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=rodrigovilelaferreira&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=discord)](https://discord.com/users/889910512136114226)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Rodrigo%20Vilela%20Ferreira&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=linkedin)](https://[www.linkedin.com/in/rodrigovilelaferreira](https://www.linkedin.com/in/rodrigovilelaferreira/)?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpaVdFFnHQvqKMAzqynTUSQ%3D%3D)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Rodrigo%20Vilela%20Ferreira&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigovilelaferreira)
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
