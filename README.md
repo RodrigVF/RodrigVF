@@ -3,7 +3,7 @@
 
 - ⚡ Fun fact, **I'm always looking to learn something new**
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=rodrigovilelaferreira&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=discord)](https://discord.com/users/889910512136114226)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=rodrigvf&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=discord)](https://discord.com/users/889910512136114226)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Rodrigo%20Vilela%20Ferreira&color=a35fe3&logoColor=ffffff&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigovilelaferreira)
 
 <h3 align="left">Languages:</h3>
@@ -21,4 +21,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigovilelaferreira&show_icons=true&locale=en&layout=compact&hide=css,scss,html&langs_count=8" alt="rodrigovilelaferreira" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigvf&show_icons=true&locale=en&layout=compact&hide=css,scss,html&langs_count=8" alt="rodrigvf" /></p>
