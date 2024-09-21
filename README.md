@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h1 align="center">Hi 👋, I'm RodrigVF</h1>
 <h3 align="center">Backend Developer, currently working as a freelancer</h3>
 
 - ⚡ Fun fact, **I'm always looking to learn something new**
